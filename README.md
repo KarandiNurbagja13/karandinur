@@ -9,7 +9,7 @@
 
 👋 Selamat Datang di Repositori GitHub Saya 👋
 
-Saya adalah **Muhamad Firdaus**, seorang pelajar **Android Developer** yang saat ini sedang belajar di [Dicoding](https://www.dicoding.com/). Tugas utama saya adalah mempelajari, mengembangkan, dan mendokumentasikan berbagai aplikasi dari awal hingga di-publish, sebagai bagian dari **sertifikasi dari Dicoding Academy**.
+Saya adalah **Karandi Nurbagja**, seorang pelajar **Android Developer** yang saat ini sedang belajar di [Dicoding](https://www.dicoding.com/). Tugas utama saya adalah mempelajari, mengembangkan, dan mendokumentasikan berbagai aplikasi dari awal hingga di-publish, sebagai bagian dari **sertifikasi dari Dicoding Academy**.
 
 📚 Sertifikasi Dicoding:
 - [Belajar Dasar Memulai Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/1OP80850QXQK).
